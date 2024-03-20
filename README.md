@@ -1,6 +1,6 @@
 [![Stein's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Stein-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Stein-B06/github-readme-stats#gh-dark-mode-only)
 
-Testing
+
 
 - 👋 Hi, I’m @Stein-B06
 - 👀 I’m interested in ...
