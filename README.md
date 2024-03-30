@@ -1,7 +1,3 @@
-
-
-
-
 ### Hei 👋 Mitt navn er Stein!
 
 <hr>
