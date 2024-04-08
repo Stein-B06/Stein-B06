@@ -19,7 +19,7 @@ Som en ivrig Frontend-utvikler leter jeg nå etter praksisplass hvor jeg kan få
 <hr>
 <br>
 
-[![Stein's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Stein-B06&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Stein-B06/github-readme-stats#gh-dark-mode-only)
+[![Stein's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Stein-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Stein-B06/github-readme-stats#gh-dark-mode-only)
 <!---
 Stein-B06/Stein-B06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
