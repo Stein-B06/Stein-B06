@@ -4,7 +4,7 @@
 Jeg har i den siste tid studert Frontend-utvikling på Kodehode. Et intensivt studie hvor jeg har utviklet en stor lidenskap og interesse for koding, og fått en god forståelse for faget.
 <br>
 <br>
-Jeg elsker å lære nye ting, og etter alt vi har lært på studie, bruker jeg nå mye av tiden på Next.JS, Tailwind, Javascript og Typescript.
+Jeg elsker å lære nye ting, og etter alt vi har lært på studie, bruker jeg nå mye av tiden til React, Next.JS, MUI, Tailwind, Javascript og Typescript.
 <br>
 <br>
 Som en ivrig Frontend-utvikler leter jeg nå etter praksisplass hvor jeg kan få praktisert mine ferdigheter innen Frontend-utvikling og kunne bidra i alle slags prosjekter.
