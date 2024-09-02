@@ -1,13 +1,18 @@
 ### Hei 👋 Mitt navn er Stein!
 
 <hr>
-Jeg har i den siste tid studert Frontend-utvikling på Kodehode. Et intensivt studie hvor jeg har utviklet en stor lidenskap og interesse for koding, og fått en god forståelse for faget.
+jeg er for tiden i praksis hos Vis Innovasjon som design- og frontend-ansvarlig for et internt prosjekt. Her har jeg fått verdifull erfaring og anledning til å anvende mine ferdigheter innen frontend-utvikling. Prosjektet har gitt meg gode tilbakemeldinger og muligheten til å videreutvikle min kompetanse i et profesjonelt miljø.
+
 <br>
 <br>
-Jeg elsker å lære nye ting, og etter alt vi har lært på studie, bruker jeg nå mye av tiden til React, Next.JS, MUI, Tailwind, Javascript og Typescript.
+Før jeg begynte i praksis studerte jeg frontend-utvikling hos Kodehode i regi av Jobloop, hvor jeg har utviklet en stor lidenskap og interesse for faget. Gjennom studiet har jeg tilegnet meg god kunnskap i HTML/CSS, JavaScript, Git/GitHub, Figma, TypeScript og React. I tillegg har jeg på egen hånd lært meg Next.js, Tailwind og MUI for å utvide min tekniske verktøykasse.
+
 <br>
 <br>
-Som en ivrig Frontend-utvikler leter jeg nå etter praksisplass hvor jeg kan få praktisert mine ferdigheter innen Frontend-utvikling og kunne bidra i alle slags prosjekter.
+Min drivkraft er å skape gode nettopplevelser med responsivt design og optimal brukeropplevelse, både visuelt og interaktivt. Jeg er alltid ivrig etter å lære nye teknologier og metoder som er relevante for en frontend-utvikler.
+<br>
+<br>
+Utenom koding finner jeg glede i gaming, brygging av øl og cider, fisking og tee-off på golfbanen.
 <br>
 <br>
 
