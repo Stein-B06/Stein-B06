@@ -5,7 +5,7 @@ jeg er for tiden i praksis hos Vis Innovasjon som design- og frontend-ansvarlig 
 
 <br>
 <br>
-Før jeg begynte i praksis studerte jeg frontend-utvikling hos Kodehode i regi av Jobloop, hvor jeg har utviklet en stor lidenskap og interesse for faget. Gjennom studiet har jeg tilegnet meg god kunnskap i HTML/CSS, JavaScript, Git/GitHub, Figma, TypeScript og React. I tillegg har jeg på egen hånd lært meg Next.js, Tailwind og MUI for å utvide min tekniske verktøykasse.
+Før jeg begynte i praksis studerte jeg frontend-utvikling hos Kodehode i regi av Jobloop, hvor jeg har utviklet en stor lidenskap og interesse for faget. Gjennom studiet har jeg tilegnet meg god kunnskap i HTML/CSS, JavaScript, Git/GitHub, Figma, TypeScript og React. I tillegg har jeg på egen hånd lært meg å bruke Next.js, Tailwind og MUI for å utvide min tekniske verktøykasse.
 
 <br>
 <br>
