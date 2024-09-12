@@ -1,7 +1,7 @@
 ### Hei 👋 Mitt navn er Stein!
 
 <hr>
-jeg er for tiden i praksis hos Vis Innovasjon som design- og frontend-ansvarlig for et internt prosjekt. Her har jeg fått verdifull erfaring og anledning til å anvende mine ferdigheter innen frontend-utvikling. Prosjektet har gitt meg gode tilbakemeldinger og muligheten til å videreutvikle min kompetanse i et profesjonelt miljø.
+jeg er for tiden i praksis hos Vis Innovasjon som design og frontend-ansvarlig for et internt prosjekt. Her har jeg fått verdifull erfaring og anledning til å anvende mine ferdigheter innen frontend-utvikling. Prosjektet har gitt meg gode tilbakemeldinger og muligheten til å videreutvikle min kompetanse i et profesjonelt miljø.
 
 <br>
 <br>
@@ -9,7 +9,7 @@ Før jeg begynte i praksis studerte jeg frontend-utvikling hos Kodehode i regi a
 
 <br>
 <br>
-Min drivkraft er å skape gode nettopplevelser med responsivt design og optimal brukeropplevelse, både visuelt og interaktivt. Jeg er alltid ivrig etter å lære nye teknologier og metoder som er relevante for en frontend-utvikler.
+Drivkraften min er å skape gode nettopplevelser med responsivt design og optimal brukeropplevelse, både visuelt og interaktivt. Jeg er alltid ivrig etter å lære nye teknologier og metoder som er relevante for en frontend-utvikler.
 <br>
 <br>
 Utenom koding finner jeg glede i gaming, brygging av øl og cider, fisking og tee-off på golfbanen.
