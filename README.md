@@ -19,7 +19,7 @@ Utenom koding finner jeg glede i gaming, brygging av øl og cider, fisking og te
 **Tusen takk for at du tok deg tid til å besøke meg.**
 <br>
 <br>
-**Send meg gjerne en [epost](mailto:stein.jfu@gmail.com)** 🙂
+**Send meg gjerne en [epost](mailto:steinb06.kodehode@gmail.com)** 🙂
 <br>
 <hr>
 <br>
