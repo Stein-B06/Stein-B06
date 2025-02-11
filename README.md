@@ -16,7 +16,8 @@ Utenom koding finner jeg glede i gaming, brygging av øl og cider, fisking og te
 <br>
 <br>
 
-[Min Portfolio](https://portfolio-steinb06s-projects.vercel.app/)
+<a href="https://portfolio-steinb06s-projects.vercel.app/" target="_blank">Min Portfolio</a>
+
 
 **Tusen takk for at du tok deg tid til å besøke meg.**
 <br>
