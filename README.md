@@ -26,8 +26,10 @@ Utenom koding finner jeg glede i gaming, brygging av øl og cider, fisking og te
 <br>
 <hr>
 <br>
+<br>
 
-[![Stein's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Stein-B06&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Stein-B06/github-readme-stats#gh-dark-mode-only)
+[![Stein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stein-B06&show_icons=true&theme=cobalt)
+
 <!---
 Stein-B06/Stein-B06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
