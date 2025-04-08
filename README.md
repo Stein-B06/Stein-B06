@@ -1,7 +1,7 @@
 ### Hei 👋 Mitt navn er Stein!
 
 <hr>
-jeg er for tiden intern i Kodeverket som frontendutvikler. Tidligere hadde jeg ansvar for design og frontend i et internt prosjekt hos Vis Innovasjon, hvor vi utviklet et system for å håndtere informasjon om tidligere startups og tilknyttede selskaper.
+Jeg er for tiden intern i Kodeverket som frontendutvikler. Tidligere hadde jeg ansvar for design og frontend i et internt prosjekt hos Vis Innovasjon, hvor vi utviklet et system for å håndtere informasjon om tidligere startups og tilknyttede selskaper.
 
 
 <br>
