@@ -6,7 +6,7 @@ Jeg er for tiden intern i Kodeverket som frontend utvikler. Tidligere hadde jeg 
 
 <br>
 <br>
-Jeg jobber hovedsakelig med NextJS, TypeScript og Tailwind CSS,  og har utdanning fra Kodehode i regi av Jobloop. I tillegg har jeg bygget videre på kompetansen min med verktøy som React, MUI og biblioteker som Chart.JS, Swiper og Framer Motion. Jeg er opptatt av å utvikle løsninger med god struktur, ytelse og brukeropplevelse.
+Jeg jobber hovedsakelig med NextJS, TypeScript og Tailwind CSS, og har utdanning fra Kodehode i regi av Jobloop. I tillegg har jeg bygget videre på kompetansen min med verktøy som React, MUI og biblioteker som Chart.JS, Swiper og Framer Motion. Jeg er opptatt av å utvikle løsninger med god struktur, responsivt design, god ytelse og brukeropplevelse.
 
 <br>
 <br>
